@@ -1,0 +1,88 @@
+{
+  "contatos": [
+    {
+      "telefones": [
+        {
+          "numero": "11996808480"
+        }
+      ],
+      "ceps": [
+        {
+          "cep": "07196080",
+          "logradouro": "Avenida Comendador Wilson Talarico"
+        }
+      ],
+      "nome": "Felipera",
+      "sobrenome": "Soares",
+      "email": "felip.godoy10@gmail.com",
+      "aniversario": "1998-05-23",
+      "id": 2
+    },
+    {
+      "telefones": [
+        {
+          "numero": "11666568555"
+        },
+        {
+          "numero": "151515151515151515"
+        },
+        {
+          "numero": "161616161616161"
+        },
+        {
+          "numero": ""
+        },
+        {
+          "numero": ""
+        }
+      ],
+      "ceps": [
+        {
+          "cep": "07190050",
+          "logradouro": "Avenida Odair Santanelli"
+        }
+      ],
+      "nome": "Guilherme",
+      "sobrenome": "Souza",
+      "email": "gui@gmail.com",
+      "aniversario": "1998-05-23",
+      "id": 4
+    },
+    {
+      "telefones": [
+        {
+          "numero": "11996808480"
+        }
+      ],
+      "ceps": [
+        {
+          "cep": "07196080",
+          "logradouro": "Avenida Comendador Wilson Talarico"
+        }
+      ],
+      "nome": "Claudia",
+      "sobrenome": "Freitas",
+      "email": "regina@gmail.com",
+      "aniversario": "2000-05-01",
+      "id": 5
+    },
+    {
+      "telefones": [
+        {
+          "numero": "11996808482"
+        }
+      ],
+      "ceps": [
+        {
+          "cep": "08070290",
+          "logradouro": "Rua André Bernardes"
+        }
+      ],
+      "nome": "Gabriel",
+      "sobrenome": "Santos",
+      "email": "gabriel@gmail.com",
+      "aniversario": "1998-05-23",
+      "id": 6
+    }
+  ]
+}
